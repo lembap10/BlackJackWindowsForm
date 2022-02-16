@@ -483,6 +483,16 @@ namespace BlackJackWindowsForm.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
+        internal static System.Drawing.Bitmap card_back_red {
+            get {
+                object obj = ResourceManager.GetObject("card_back_red", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
         internal static System.Drawing.Bitmap Green_Green_PO {
             get {
                 object obj = ResourceManager.GetObject("Green+Green+PO", resourceCulture);
