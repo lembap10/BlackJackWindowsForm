@@ -1,7 +1,7 @@
 # BlackJackWindowsApplication
 
 Created By : Baptiste Lemercier  
-Last Edited: February 
+Last Edited: February  
 Made using Visual Studio
 
 ## Overview
