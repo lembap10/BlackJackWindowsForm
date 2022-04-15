@@ -15,3 +15,4 @@ Player starts with 1000 dollars and can adjust their current bet using the slide
 1) Separate files to improve readability
 2) Implement a Split Feature
 3) Separate classes out a lot more such that each class has their own function
+4) Implement Design Pattern with inheritance such that this project maintains SOLID pricniples
